@@ -1,4 +1,4 @@
-<p  align="center"><img src="[https://github.com/fitsumM12/fitsumM12/blob/main/img.png](https://6448316.fs1.hubspotusercontent-na1.net/hubfs/6448316/what-computer-programming-jobs-offer-remote-work-jpg.jpeg)" width="350" height="320" /></p>
+<p  align="center"><img src="https://6448316.fs1.hubspotusercontent-na1.net/hubfs/6448316/what-computer-programming-jobs-offer-remote-work-jpg.jpeg" width="350" height="320" /></p>
 
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
 <h3 align="center">A passionate software developerand data scientist from Ethiopia</h3>
