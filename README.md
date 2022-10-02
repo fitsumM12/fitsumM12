@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently pursuing my Mtech in Data Analytics and Software engineering course from ALX africa
 
-- 📫 How to reach me **fitsummesfin12@gmail.com**
+- 📫 How to reach me **fitse.fani@gmail.com**
 
-- ⚡ Fun fact **I like to be silent, but once I know you well, you find me talkative**
+- ⚡ Fun fact **I like to be remain silent till I know you very well, Once I knew you well, you find me talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
