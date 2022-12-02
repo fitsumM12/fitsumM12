@@ -1,4 +1,5 @@
-<marquee>fitsum</marquee>
+<marquee width="60%" direction="down" height="100px">Contact
+</marquee>
 
 <p  align="center"><img src="https://6448316.fs1.hubspotusercontent-na1.net/hubfs/6448316/what-computer-programming-jobs-offer-remote-work-jpg.jpeg" width="350" height="320" /></p>
 
