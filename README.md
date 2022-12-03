@@ -1,8 +1,7 @@
 
 <p  align="center"><img src="https://6448316.fs1.hubspotusercontent-na1.net/hubfs/6448316/what-computer-programming-jobs-offer-remote-work-jpg.jpeg" width="350" height="320" /></p>
-<marquee width="60%" direction="down" height="100px">
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-</marquee>
+
 
 <h3 align="center">A passionate software developer and data scientist from Ethiopia</h3>
 
