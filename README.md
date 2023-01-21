@@ -6,9 +6,9 @@
 <h3 align="center">A passionate software developer and data scientist from Ethiopia</h3>
 
 
-- 🔭 I’m currently working on different project by my self
+- 🔭 I’m currently working on different project
 
-- 🌱 I’m currently pursuing my Mtech in Data Analytics and Software engineering course from ALX africa
+- 🌱 I’m pursuing my Mtech in Data Analytics and Software engineering course from ALX africa
 
 - 📫 How to reach me **fitse.fani@gmail.com**
 
