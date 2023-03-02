@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
 <h3 align="center">Data Science and Software Enthuasiast </h3>
 
-<p align="left"> <a href="https://twitter.com/hrishikeshkini7" target="blank">
-<img src="https://img.shields.io/twitter/follow/hrishikeshkini7?logo=twitter&style=for-the-badge" alt="hrishikeshkini7" /></a> </p>
-
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 
 - 🌱 I’m currently learning **ALX Software Engineering, MTech in Computer Science and Engineering**
