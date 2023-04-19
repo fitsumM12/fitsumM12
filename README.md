@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-<h3 align="center">Data Science and Software Enthuasiast </h3>
+<h3 align="center">Data Science and Software Engineering Enthuasiast </h3>
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
 
-- 🌱 I’m currently learning **ALX Software Engineering, MTech in Computer Science and Engineering**
+- 🌱 I’m pursuing MTech in Computer Science and Engineering
+- 🌱 I'm ALX certified Software Engineer and Google certified Data Analyst
 
-- 👨‍💻 All of my projects are available at [https://github.com/fitsumM12]
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Recommendation System, Web Development, Databases, Kaggle**
+- 👨‍💻 All my projects are available at <a href="https://github.com/fitsumM12" target="_blank"> GitHub</a> 
+- 💬 Ask me about *Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Recommendation System, Web Development, Databases, Kaggle*
 
 - 📫 How to reach me **fitse.fani@gmail.com**
 
-- 📄 Know about my experiences [https://in.linkedin.com/in/fitsum-mesfin-25a01a185]
+- 📄 Know about my experiences <a href="https://in.linkedin.com/in/fitsum-mesfin-25a01a185" target="_blank">LinkedIN</a> []
 
-- ⚡ Fun fact **ፍርፍር lover👌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
