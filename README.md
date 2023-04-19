@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
 <h3 align="center">Data Science and Software Engineering Enthuasiast </h3>
 
-<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
+<img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
 - 🌱 I’m pursuing MTech in Computer Science and Engineering
 - 🌱 I'm ALX certified Software Engineer and Google certified Data Analyst
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fitse.fani@gmail.com**
 
-- 📄 Know about my experiences <a href="https://in.linkedin.com/in/fitsum-mesfin-25a01a185" target="_blank">LinkedIN</a> []
+- 📄 Know about my experiences <a href="https://in.linkedin.com/in/fitsum-mesfin-25a01a185" target="_blank">LinkedIN</a>
 
 
 <h3 align="left">Connect with me:</h3>
