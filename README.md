@@ -8,7 +8,7 @@
 - 🌱 I'm Google certified Data Analyst
 
 - 👨‍💻 All my projects are available at <a href="https://github.com/fitsumM12" target="_blank"> GitHub</a> 
-- 💬 Ask me about *Machine Learning, Deep Learning, Natural Language Processing, Computer vision, Data Analysis, Recommendation System*
+- 💬 Ask me about *Machine Learning, Deep Learning, Natural Language Processing, Computer vision, Data Analysis, Recommendation System, Data Analysis*
 
 - 📫 How to reach me **fitse.fani@gmail.com**
 
