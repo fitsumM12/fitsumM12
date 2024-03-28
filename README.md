@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-<h3 align="center">Data Science Enthuasiast </h3>
+<h3 align="center">Data Scientist and ML Engineer </h3>
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
-- 🌱 I pursued BTech and MTech in Computer Science and Engineering
-- 🌱 I'm ALX certified Software Engineer
-- 🌱 I'm Google certified Data Analyst
+- 🌱 I have pursued a Bachelor's and Master's Degree in Computer Science and Engineering.
+- 🌱 I'm ALX certified Software Engineer.
+- 🌱 I'm Google certified Data Analyst.
+- 🌱 I served FiNETO outsourcing private company as a software engineer.
+- 🌱 I'm working as a Data Scientist in EAII.
+- 🌱 I'm aspiring PhD.
 
-- 👨‍💻 All my projects are available at <a href="https://github.com/fitsumM12" target="_blank"> GitHub</a> 
+- 👨‍💻 All my projects are available on <a href="https://github.com/fitsumM12" target="_blank"> GitHub</a> 
 - 💬 Ask me about *Machine Learning, Deep Learning, Natural Language Processing, Computer vision, Data Analysis, Recommendation System, Data Analysis*
 
 - 📫 How to reach me **fitse.fani@gmail.com**
