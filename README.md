@@ -3,9 +3,8 @@
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
-- 🌱 I have pursued a Bachelor's and Master's Degree in Computer Science and Engineering.
+- 🌱 I have pursued a Bachelor's and Master's Degree in <b>Computer Science and Engineering</b>.
 - 🌱 I'm ALX certified Software Engineer.
-- 🌱 I'm Google certified Data Analyst.
 - 🌱 I served FiNETO outsourcing private company as a software engineer.
 - 🌱 I'm working as a Computer Vision Engineer Team Lead in EAII.
 
