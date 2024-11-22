@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-<h3 align="center">Data Scientist and ML Engineer </h3>
+<h3 align="center">Computer Vision Engineer and Full Stack Developer </h3>
 
 <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" >
 
