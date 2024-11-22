@@ -7,7 +7,7 @@
 - 🌱 I'm ALX certified Software Engineer.
 - 🌱 I'm Google certified Data Analyst.
 - 🌱 I served FiNETO outsourcing private company as a software engineer.
-- 🌱 I'm working as a Data Scientist in EAII.
+- 🌱 I'm working as a Computer Vision Engineer Team Lead in EAII.
 
 - 👨‍💻 All my projects are available on <a href="https://github.com/fitsumM12" target="_blank"> GitHub</a> 
 - 💬 Ask me about *Machine Learning, Deep Learning, Natural Language Processing, Computer vision, Data Analysis, Recommendation System, Data Analysis*
