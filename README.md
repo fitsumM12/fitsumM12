@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
 <h3 align="center">Computer Vision Engineer | Full Stack Developer | AI Enthusiast</h3>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300">
+<img align="right" alt="Coding" src="https://avatars.githubusercontent.com/u/58865020?v=4" width="300">
 
 ## 🚀 About Me
 
