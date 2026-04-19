@@ -1,83 +1,99 @@
-<h1 align="center">Hi 👋, I'm Fitsum Mesfin</h1>
-<h3 align="center">Computer Vision Engineer | Full Stack Developer | AI Enthusiast</h3>
+<!-- Header with animated wave and typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fitsum+Mesfin;Computer+Vision+Engineer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" src="https://avatars.githubusercontent.com/u/58865020?v=4" width="100" height="100">
+<!-- Profile badge and intro -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/58865020?v=4" alt="Fitsum Mesfin" width="160" style="border-radius: 50%;" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=fitsumM12&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/fitsumM12?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 ## 🚀 About Me
 
-- 🎓 Hold Bachelor's and Master's Degrees in **Computer Science and Engineering**
-- 🏅 ALX Certified Software Engineer
-- 💼 Currently serving as **Computer Vision Engineer Team Lead** at EAII
-- 👨‍💻 Former Software Engineer at FiNETO Outsourcing
-- 🔭 Passionate about building intelligent systems and solving complex problems
+🎓 Hold **Bachelor's** and **Master's Degrees** in **Computer Science and Engineering**  
+🏅 **ALX Certified Software Engineer**  
+💼 Currently serving as **Computer Vision Engineer Team Lead** at **EAII**  
+👨‍💻 Former Software Engineer at **FiNETO Outsourcing**  
+🔭 Passionate about building intelligent systems and solving complex problems  
 
-## 🛠️ Skills
+---
 
-### Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
 
-### AI/ML & Data Science
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Web Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+### 🤖 AI/ML & Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fitsumM12&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fitsumM12&theme=radical" />
-</p>
+---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumM12&layout=compact&theme=radical" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fitsumM12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fitsumM12&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumM12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=fitsumM12&theme=tokyonight&no-frame=true&row=2&column=4" />
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/FitsumMD" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fitsum" height="30" width="40" />
+<div align="center">
+  <a href="https://twitter.com/FitsumMD" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://in.linkedin.com/in/fitsum-mesfin-25a01a185" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fitsum" height="30" width="40" />
+  <a href="https://in.linkedin.com/in/fitsum-mesfin-25a01a185" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/fitsumdejene" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fitsum" height="30" width="40" />
+  <a href="https://www.kaggle.com/fitsumdejene" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.instagram.com/fitse.fani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitsum" height="30" width="40" />
+  <a href="https://www.instagram.com/fitse.fani" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:fitse.fani@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-[➡️ More projects...](https://github.com/fitsumM12?tab=repositories)
+## 📌 Featured Projects
+
+- 🌐 [**Portfolio Website**](https://fitsum-teal.vercel.app/) – Building production AI systems with applied AI and software engineering
+- 🚀 [**More projects on GitHub**](https://github.com/fitsumM12?tab=repositories)
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br />
+  <i>⭐️ From <a href="https://github.com/fitsumM12">Fitsum Mesfin</a></i>
+</div>
